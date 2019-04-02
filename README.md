@@ -1,4 +1,4 @@
 # Machine-learning-tutorials
 Machine learning tutorials in python notebooks.
 
-Thes MNIST dataset can be uploaded from here: http://yann.lecun.com/exdb/mnist/
+Thes MNIST dataset can be downloaded from here: http://yann.lecun.com/exdb/mnist/
